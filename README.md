@@ -50,5 +50,5 @@ solid Mesh
       vertex 99.000000 15.000000 0.000000
     endloop
   endfacet
-  ...
+endsolid Mesh
 ```
