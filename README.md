@@ -3,7 +3,8 @@
       A-->B;
       A-->C;
       B-->D;
-      C-->
+      C-->D;
+```
 ![TEST](CalibrationObject.stl)
 ```geojson
 {
