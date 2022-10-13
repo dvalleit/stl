@@ -42,12 +42,12 @@ sequenceDiagram
 
 
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
+solid Mesh
+  facet normal -0.000000 1.000000 0.000000
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex 15.337000 15.000000 109.000000
+      vertex 15.337000 15.000000 139.000000
+      vertex 99.000000 15.000000 0.000000
     endloop
   endfacet
   ...
