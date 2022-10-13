@@ -1,0 +1,2 @@
+
+![TEST](CalibrationObject.stl)
